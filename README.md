@@ -2,7 +2,7 @@
 
 Repositório com a documentação do **1º Semestre** do curso de Análise e Desenvolvimento de Sistemas da **Fatec Lins**.
 
-**Aluno:** _Seu nome completo_
+**Aluno:** _Mateus Clempel Arantes, Murilo Gaviola, Jose Adelcio Vieira Junior e Lucas da Silva Portella
 **Professor (Projeto Integrador):** Julio Fernando Lieira
 **Semestre/Ano:** 1º Semestre – 2026
 
@@ -13,7 +13,7 @@ Repositório com a documentação do **1º Semestre** do curso de Análise e Des
 **Tema:** Sistema Web para Gestão de Academia
 **Equipe:** _Nome dos integrantes do grupo_
 
-_Resumo em 3 ou 4 linhas: qual problema o projeto resolve, para quem e qual solução foi proposta._
+_Muitas academias ainda controlam alunos, planos, pagamentos e vencimentos de forma manual ou em ferramentas isoladas, o que dificulta acompanhar mensalidades e informações dos alunos. Este projeto propõe um Sistema Web para Gestão de Academia, voltado a administradores, recepcionistas e professores/instrutores (com área do aluno prevista para etapas futuras). A solução centraliza em uma aplicação web o cadastro de alunos, funcionários e modalidades, a matrícula, o controle de mensalidades e pagamentos em atraso, os relatórios gerenciais e o controle de acesso por perfil de usuário. O sistema será desenvolvido de forma incremental ao longo do curso.
 
 ---
 
